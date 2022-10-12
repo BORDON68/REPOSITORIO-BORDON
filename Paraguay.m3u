@@ -1,0 +1,40 @@
+#EXTM3U 
+#EXTINF:-1 ,Paraguay SNT
+https://d4xunn272arip.cloudfront.net:443/hls/snt_360.m3u8
+
+#EXTINF:-1 ,ABC TV
+https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8 
+
+#EXTINF:-1 ,LA TELE
+https://latele.com.py/envivo/
+
+
+#EXTINF:-1 ,TELEFUTURO
+https://telefuturo.com.py/envivo/
+
+
+#EXTINF:-1 ,UNICANAL
+http://45.55.127.106/live/unicanal_src.m3u8 
+
+#EXTINF:-1 ,ÑANDUTI
+https://tvdatta.com:3839/live/nandutitvlive.m3u8 
+
+#EXTINF:-1 ,GEN
+https://www.gen.com.py/live/
+
+#EXTINF:-1 ,UNIVERSO
+https://www.gen.com.py/live/universo/
+
+#EXTINF:-1 ,HEI
+https://www.gen.com.py/live/hei/
+
+#EXTINF:-1 ,EL TRECE
+https://trece.com.py
+
+#EXTINF:-1 ,C9N
+https://www.c9n.com.py/envivo/
+
+#EXTINF:-1 ,NPY
+https://npy.com.py/en-vivo/
+
+#EXTINF:-1 ,PARAGUAY TV
